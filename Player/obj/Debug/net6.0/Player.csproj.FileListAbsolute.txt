@@ -1,0 +1,34 @@
+C:\Users\User\source\repos\Player\bin\Debug\net6.0\Player.deps.json
+C:\Users\User\source\repos\Player\bin\Debug\net6.0\Player.dll
+C:\Users\User\source\repos\Player\bin\Debug\net6.0\Player.pdb
+C:\Users\User\source\repos\Player\bin\Debug\net6.0\Util.dll
+C:\Users\User\source\repos\Player\bin\Debug\net6.0\Util.pdb
+C:\Users\User\source\repos\Player\obj\Debug\net6.0\Player.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Player\obj\Debug\net6.0\Player.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Player\obj\Debug\net6.0\Player.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Player\obj\Debug\net6.0\Player.AssemblyInfo.cs
+C:\Users\User\source\repos\Player\obj\Debug\net6.0\Player.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Player\obj\Debug\net6.0\Player.csproj.CopyComplete
+C:\Users\User\source\repos\Player\obj\Debug\net6.0\Player.dll
+C:\Users\User\source\repos\Player\obj\Debug\net6.0\refint\Player.dll
+C:\Users\User\source\repos\Player\obj\Debug\net6.0\Player.pdb
+C:\Users\User\source\repos\Player\obj\Debug\net6.0\ref\Player.dll
+C:\Users\User\source\repos\Player\bin\Debug\net6.0\Settings.dll
+C:\Users\User\source\repos\Player\bin\Debug\net6.0\Settings.pdb
+C:\Users\User\Documents\c#\projects\015 - connectfour\Player\bin\Debug\net6.0\Player.deps.json
+C:\Users\User\Documents\c#\projects\015 - connectfour\Player\bin\Debug\net6.0\Player.dll
+C:\Users\User\Documents\c#\projects\015 - connectfour\Player\bin\Debug\net6.0\Player.pdb
+C:\Users\User\Documents\c#\projects\015 - connectfour\Player\bin\Debug\net6.0\Settings.dll
+C:\Users\User\Documents\c#\projects\015 - connectfour\Player\bin\Debug\net6.0\Util.dll
+C:\Users\User\Documents\c#\projects\015 - connectfour\Player\bin\Debug\net6.0\Settings.pdb
+C:\Users\User\Documents\c#\projects\015 - connectfour\Player\bin\Debug\net6.0\Util.pdb
+C:\Users\User\Documents\c#\projects\015 - connectfour\Player\obj\Debug\net6.0\Player.csproj.AssemblyReference.cache
+C:\Users\User\Documents\c#\projects\015 - connectfour\Player\obj\Debug\net6.0\Player.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\c#\projects\015 - connectfour\Player\obj\Debug\net6.0\Player.AssemblyInfoInputs.cache
+C:\Users\User\Documents\c#\projects\015 - connectfour\Player\obj\Debug\net6.0\Player.AssemblyInfo.cs
+C:\Users\User\Documents\c#\projects\015 - connectfour\Player\obj\Debug\net6.0\Player.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\c#\projects\015 - connectfour\Player\obj\Debug\net6.0\Player.csproj.CopyComplete
+C:\Users\User\Documents\c#\projects\015 - connectfour\Player\obj\Debug\net6.0\Player.dll
+C:\Users\User\Documents\c#\projects\015 - connectfour\Player\obj\Debug\net6.0\refint\Player.dll
+C:\Users\User\Documents\c#\projects\015 - connectfour\Player\obj\Debug\net6.0\Player.pdb
+C:\Users\User\Documents\c#\projects\015 - connectfour\Player\obj\Debug\net6.0\ref\Player.dll
