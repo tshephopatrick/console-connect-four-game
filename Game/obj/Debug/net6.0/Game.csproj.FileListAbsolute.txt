@@ -1,0 +1,42 @@
+C:\Users\User\source\repos\Game\bin\Debug\net6.0\Game.deps.json
+C:\Users\User\source\repos\Game\bin\Debug\net6.0\Game.dll
+C:\Users\User\source\repos\Game\bin\Debug\net6.0\Game.pdb
+C:\Users\User\source\repos\Game\bin\Debug\net6.0\Player.dll
+C:\Users\User\source\repos\Game\bin\Debug\net6.0\Util.dll
+C:\Users\User\source\repos\Game\bin\Debug\net6.0\Player.pdb
+C:\Users\User\source\repos\Game\bin\Debug\net6.0\Util.pdb
+C:\Users\User\source\repos\Game\obj\Debug\net6.0\Game.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Game\obj\Debug\net6.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Game\obj\Debug\net6.0\Game.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Game\obj\Debug\net6.0\Game.AssemblyInfo.cs
+C:\Users\User\source\repos\Game\obj\Debug\net6.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Game\obj\Debug\net6.0\Game.csproj.CopyComplete
+C:\Users\User\source\repos\Game\obj\Debug\net6.0\Game.dll
+C:\Users\User\source\repos\Game\obj\Debug\net6.0\refint\Game.dll
+C:\Users\User\source\repos\Game\obj\Debug\net6.0\Game.pdb
+C:\Users\User\source\repos\Game\obj\Debug\net6.0\ref\Game.dll
+C:\Users\User\source\repos\Game\bin\Debug\net6.0\Settings.dll
+C:\Users\User\source\repos\Game\bin\Debug\net6.0\Settings.pdb
+C:\Users\User\source\repos\Game\bin\Debug\net6.0\Gameboard.dll
+C:\Users\User\source\repos\Game\bin\Debug\net6.0\Gameboard.pdb
+C:\Users\User\Documents\c#\projects\015 - connectfour\Game\bin\Debug\net6.0\Game.deps.json
+C:\Users\User\Documents\c#\projects\015 - connectfour\Game\bin\Debug\net6.0\Game.dll
+C:\Users\User\Documents\c#\projects\015 - connectfour\Game\bin\Debug\net6.0\Game.pdb
+C:\Users\User\Documents\c#\projects\015 - connectfour\Game\bin\Debug\net6.0\Gameboard.dll
+C:\Users\User\Documents\c#\projects\015 - connectfour\Game\bin\Debug\net6.0\Player.dll
+C:\Users\User\Documents\c#\projects\015 - connectfour\Game\bin\Debug\net6.0\Settings.dll
+C:\Users\User\Documents\c#\projects\015 - connectfour\Game\bin\Debug\net6.0\Util.dll
+C:\Users\User\Documents\c#\projects\015 - connectfour\Game\bin\Debug\net6.0\Gameboard.pdb
+C:\Users\User\Documents\c#\projects\015 - connectfour\Game\bin\Debug\net6.0\Player.pdb
+C:\Users\User\Documents\c#\projects\015 - connectfour\Game\bin\Debug\net6.0\Settings.pdb
+C:\Users\User\Documents\c#\projects\015 - connectfour\Game\bin\Debug\net6.0\Util.pdb
+C:\Users\User\Documents\c#\projects\015 - connectfour\Game\obj\Debug\net6.0\Game.csproj.AssemblyReference.cache
+C:\Users\User\Documents\c#\projects\015 - connectfour\Game\obj\Debug\net6.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\c#\projects\015 - connectfour\Game\obj\Debug\net6.0\Game.AssemblyInfoInputs.cache
+C:\Users\User\Documents\c#\projects\015 - connectfour\Game\obj\Debug\net6.0\Game.AssemblyInfo.cs
+C:\Users\User\Documents\c#\projects\015 - connectfour\Game\obj\Debug\net6.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\c#\projects\015 - connectfour\Game\obj\Debug\net6.0\Game.csproj.CopyComplete
+C:\Users\User\Documents\c#\projects\015 - connectfour\Game\obj\Debug\net6.0\Game.dll
+C:\Users\User\Documents\c#\projects\015 - connectfour\Game\obj\Debug\net6.0\refint\Game.dll
+C:\Users\User\Documents\c#\projects\015 - connectfour\Game\obj\Debug\net6.0\Game.pdb
+C:\Users\User\Documents\c#\projects\015 - connectfour\Game\obj\Debug\net6.0\ref\Game.dll

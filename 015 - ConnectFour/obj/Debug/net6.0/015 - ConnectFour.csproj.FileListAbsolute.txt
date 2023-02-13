@@ -1,0 +1,52 @@
+C:\Users\User\source\repos\015 - ConnectFour\bin\Debug\net6.0\015 - ConnectFour.exe
+C:\Users\User\source\repos\015 - ConnectFour\bin\Debug\net6.0\015 - ConnectFour.deps.json
+C:\Users\User\source\repos\015 - ConnectFour\bin\Debug\net6.0\015 - ConnectFour.runtimeconfig.json
+C:\Users\User\source\repos\015 - ConnectFour\bin\Debug\net6.0\015 - ConnectFour.dll
+C:\Users\User\source\repos\015 - ConnectFour\bin\Debug\net6.0\015 - ConnectFour.pdb
+C:\Users\User\source\repos\015 - ConnectFour\bin\Debug\net6.0\Player.dll
+C:\Users\User\source\repos\015 - ConnectFour\bin\Debug\net6.0\Util.dll
+C:\Users\User\source\repos\015 - ConnectFour\bin\Debug\net6.0\Player.pdb
+C:\Users\User\source\repos\015 - ConnectFour\bin\Debug\net6.0\Util.pdb
+C:\Users\User\source\repos\015 - ConnectFour\obj\Debug\net6.0\015 - ConnectFour.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\015 - ConnectFour\obj\Debug\net6.0\015 - ConnectFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\015 - ConnectFour\obj\Debug\net6.0\015 - ConnectFour.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\015 - ConnectFour\obj\Debug\net6.0\015 - ConnectFour.AssemblyInfo.cs
+C:\Users\User\source\repos\015 - ConnectFour\obj\Debug\net6.0\015 - ConnectFour.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\015 - ConnectFour\obj\Debug\net6.0\015 - ConnectFour.csproj.CopyComplete
+C:\Users\User\source\repos\015 - ConnectFour\obj\Debug\net6.0\015 - ConnectFour.dll
+C:\Users\User\source\repos\015 - ConnectFour\obj\Debug\net6.0\refint\015 - ConnectFour.dll
+C:\Users\User\source\repos\015 - ConnectFour\obj\Debug\net6.0\015 - ConnectFour.pdb
+C:\Users\User\source\repos\015 - ConnectFour\obj\Debug\net6.0\015 - ConnectFour.genruntimeconfig.cache
+C:\Users\User\source\repos\015 - ConnectFour\obj\Debug\net6.0\ref\015 - ConnectFour.dll
+C:\Users\User\source\repos\015 - ConnectFour\bin\Debug\net6.0\Game.dll
+C:\Users\User\source\repos\015 - ConnectFour\bin\Debug\net6.0\Game.pdb
+C:\Users\User\source\repos\015 - ConnectFour\bin\Debug\net6.0\Gameboard.dll
+C:\Users\User\source\repos\015 - ConnectFour\bin\Debug\net6.0\Gameboard.pdb
+C:\Users\User\source\repos\015 - ConnectFour\bin\Debug\net6.0\Settings.dll
+C:\Users\User\source\repos\015 - ConnectFour\bin\Debug\net6.0\Settings.pdb
+C:\Users\User\Documents\c#\projects\015 - connectfour\015 - ConnectFour\bin\Debug\net6.0\015 - ConnectFour.exe
+C:\Users\User\Documents\c#\projects\015 - connectfour\015 - ConnectFour\bin\Debug\net6.0\015 - ConnectFour.deps.json
+C:\Users\User\Documents\c#\projects\015 - connectfour\015 - ConnectFour\bin\Debug\net6.0\015 - ConnectFour.runtimeconfig.json
+C:\Users\User\Documents\c#\projects\015 - connectfour\015 - ConnectFour\bin\Debug\net6.0\015 - ConnectFour.dll
+C:\Users\User\Documents\c#\projects\015 - connectfour\015 - ConnectFour\bin\Debug\net6.0\015 - ConnectFour.pdb
+C:\Users\User\Documents\c#\projects\015 - connectfour\015 - ConnectFour\bin\Debug\net6.0\Game.dll
+C:\Users\User\Documents\c#\projects\015 - connectfour\015 - ConnectFour\bin\Debug\net6.0\Gameboard.dll
+C:\Users\User\Documents\c#\projects\015 - connectfour\015 - ConnectFour\bin\Debug\net6.0\Player.dll
+C:\Users\User\Documents\c#\projects\015 - connectfour\015 - ConnectFour\bin\Debug\net6.0\Settings.dll
+C:\Users\User\Documents\c#\projects\015 - connectfour\015 - ConnectFour\bin\Debug\net6.0\Util.dll
+C:\Users\User\Documents\c#\projects\015 - connectfour\015 - ConnectFour\bin\Debug\net6.0\Gameboard.pdb
+C:\Users\User\Documents\c#\projects\015 - connectfour\015 - ConnectFour\bin\Debug\net6.0\Game.pdb
+C:\Users\User\Documents\c#\projects\015 - connectfour\015 - ConnectFour\bin\Debug\net6.0\Player.pdb
+C:\Users\User\Documents\c#\projects\015 - connectfour\015 - ConnectFour\bin\Debug\net6.0\Util.pdb
+C:\Users\User\Documents\c#\projects\015 - connectfour\015 - ConnectFour\bin\Debug\net6.0\Settings.pdb
+C:\Users\User\Documents\c#\projects\015 - connectfour\015 - ConnectFour\obj\Debug\net6.0\015 - ConnectFour.csproj.AssemblyReference.cache
+C:\Users\User\Documents\c#\projects\015 - connectfour\015 - ConnectFour\obj\Debug\net6.0\015 - ConnectFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\c#\projects\015 - connectfour\015 - ConnectFour\obj\Debug\net6.0\015 - ConnectFour.AssemblyInfoInputs.cache
+C:\Users\User\Documents\c#\projects\015 - connectfour\015 - ConnectFour\obj\Debug\net6.0\015 - ConnectFour.AssemblyInfo.cs
+C:\Users\User\Documents\c#\projects\015 - connectfour\015 - ConnectFour\obj\Debug\net6.0\015 - ConnectFour.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\c#\projects\015 - connectfour\015 - ConnectFour\obj\Debug\net6.0\015 - ConnectFour.csproj.CopyComplete
+C:\Users\User\Documents\c#\projects\015 - connectfour\015 - ConnectFour\obj\Debug\net6.0\015 - ConnectFour.dll
+C:\Users\User\Documents\c#\projects\015 - connectfour\015 - ConnectFour\obj\Debug\net6.0\refint\015 - ConnectFour.dll
+C:\Users\User\Documents\c#\projects\015 - connectfour\015 - ConnectFour\obj\Debug\net6.0\015 - ConnectFour.pdb
+C:\Users\User\Documents\c#\projects\015 - connectfour\015 - ConnectFour\obj\Debug\net6.0\015 - ConnectFour.genruntimeconfig.cache
+C:\Users\User\Documents\c#\projects\015 - connectfour\015 - ConnectFour\obj\Debug\net6.0\ref\015 - ConnectFour.dll

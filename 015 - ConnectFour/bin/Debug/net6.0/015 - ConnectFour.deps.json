@@ -1,0 +1,92 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "015 - ConnectFour/1.0.0": {
+        "dependencies": {
+          "Game": "1.0.0",
+          "Gameboard": "1.0.0",
+          "Player": "1.0.0",
+          "Util": "1.0.0"
+        },
+        "runtime": {
+          "015 - ConnectFour.dll": {}
+        }
+      },
+      "Game/1.0.0": {
+        "dependencies": {
+          "Gameboard": "1.0.0",
+          "Player": "1.0.0",
+          "Settings": "1.0.0",
+          "Util": "1.0.0"
+        },
+        "runtime": {
+          "Game.dll": {}
+        }
+      },
+      "Gameboard/1.0.0": {
+        "dependencies": {
+          "Settings": "1.0.0"
+        },
+        "runtime": {
+          "Gameboard.dll": {}
+        }
+      },
+      "Player/1.0.0": {
+        "dependencies": {
+          "Settings": "1.0.0",
+          "Util": "1.0.0"
+        },
+        "runtime": {
+          "Player.dll": {}
+        }
+      },
+      "Settings/1.0.0": {
+        "runtime": {
+          "Settings.dll": {}
+        }
+      },
+      "Util/1.0.0": {
+        "runtime": {
+          "Util.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "015 - ConnectFour/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Gameboard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Player/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Settings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Util/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
